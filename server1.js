@@ -34,4 +34,4 @@ http.createServer( function (request, response) {
 }).listen(8081);
 
 // Console will print the message
-console.log('Server running at http://127.0.0.1:8081/');
+console.log('Server running at http://ec2-3-16-28-40.us-east-2.compute.amazonaws.com:8000');
